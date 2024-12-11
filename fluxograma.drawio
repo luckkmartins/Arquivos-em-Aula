@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.8.3">
+  <diagram name="Página-1" id="qy9cl9jp4KUpHeB04Xax">
+    <mxGraphModel dx="1687" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0y6rA7mH-tokoVNlAKuB-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Fazer uma vitamina de frutas&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="45" y="90" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0y6rA7mH-tokoVNlAKuB-2" value="&lt;p style=&quot;text-indent:-18.0pt;mso-list:l0 level1 lfo1&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;mso-bidi-font-family:Aptos;mso-bidi-theme-font:minor-latin&quot;&gt;&lt;span style=&quot;mso-list:Ignore&quot;&gt;&lt;span style=&quot;font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Times New Roman&amp;quot;; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-language-override: normal; font-feature-settings: normal; font-variation-settings: normal;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;text-indent:-18.0pt;mso-list:l0 level1 lfo1&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Pegar o Liquidificador&lt;/font&gt;&lt;/p&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
+          <mxGeometry x="80" y="200" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0y6rA7mH-tokoVNlAKuB-3" value="&lt;p style=&quot;text-indent:-18.0pt;mso-list:l0 level1 lfo1&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;mso-bidi-font-family:Aptos;mso-bidi-theme-font:minor-latin&quot;&gt;&lt;span style=&quot;mso-list:Ignore&quot;&gt;&lt;span style=&quot;font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Times New Roman&amp;quot;; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-language-override: normal; font-feature-settings: normal; font-variation-settings: normal;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;Abrir a geladeira&lt;/font&gt;&lt;/p&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" parent="1" vertex="1">
+          <mxGeometry x="80" y="300" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0y6rA7mH-tokoVNlAKuB-4" value="&lt;p style=&quot;text-indent:-18.0pt;mso-list:l0 level1 lfo1&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;text-indent:-18.0pt;mso-list:l0 level1 lfo1&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;font size=&quot;3&quot;&gt;Pegar as frutas&lt;/font&gt;&lt;/p&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="400" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0y6rA7mH-tokoVNlAKuB-5" value="&lt;p style=&quot;text-indent:-18.0pt;mso-list:l0 level1 lfo1&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;text-indent:-18.0pt;mso-list:l0 level1 lfo1&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp;&amp;nbsp; Corta-la em pedaços&lt;/font&gt;&lt;/p&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="610" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0y6rA7mH-tokoVNlAKuB-6" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Descascar as Frutas&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="510" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0y6rA7mH-tokoVNlAKuB-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;coloca-las no liquidificador&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="700" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0y6rA7mH-tokoVNlAKuB-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Abrir a Geladeira&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="790" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0y6rA7mH-tokoVNlAKuB-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;pegar o leite na geladeira&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="890" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0y6rA7mH-tokoVNlAKuB-11" value="colocar o leite no liquidificador" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="1180" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0y6rA7mH-tokoVNlAKuB-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;abrir a garrafa de leite&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="990" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0y6rA7mH-tokoVNlAKuB-13" value="ligar o quintuplicador a energia eletrica " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="1260" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0y6rA7mH-tokoVNlAKuB-14" value="acionar o botão liga" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="1350" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0y6rA7mH-tokoVNlAKuB-15" value="bater por 1 minuto" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="1440" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0y6rA7mH-tokoVNlAKuB-17" value="acionar o botão desliga" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="1550" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0y6rA7mH-tokoVNlAKuB-18" value="yy7t7" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=offPageConnector;rounded=0;size=0.36363636363636365;" parent="1" vertex="1">
+          <mxGeometry x="480" y="920" width="120" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
